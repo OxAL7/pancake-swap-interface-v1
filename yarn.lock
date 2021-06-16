@@ -1683,10 +1683,10 @@
     "@web3-react/types" "^6.0.7"
     tiny-warning "^1.0.3"
 
-"@chaindefi077/pcs-sdk-matic@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chaindefi077/pcs-sdk-matic/-/pcs-sdk-matic-1.0.1.tgz#355a981cf17787232d04c176571b54ff6b89fd13"
-  integrity sha512-9HTy7cxi/8DP5L21xKkCm1DGSmfHW8hhPOnSSWDTVcQ5UDuoufrq7R0x0P/3K5YX5OQ9eC1K0LSXIp1JVdjt+A==
+"@chaindefi077/pcs-sdk-matic@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@chaindefi077/pcs-sdk-matic/-/pcs-sdk-matic-1.0.2.tgz#eb1f11aa1322cb928a006b58a77b1c4cbece75b9"
+  integrity sha512-WxA5pS+rPz3MJQXQb/WBtW9SuAU8HoKeGFFfqDahsu5+Bdh1jPsbAPrxvjgAP1f/SeozLC3m0SmXnnt2IAcdAQ==
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
